@@ -28,7 +28,7 @@ namespace Photoer
 
         private void Load()
         {
-            string PhotoDirectory = "D:\\downloads";
+            string PhotoDirectory = "D:\\downloads\\perspectives";
             if (Directory.Exists(PhotoDirectory))
             {
                 DirectoryBox.Items.Clear();

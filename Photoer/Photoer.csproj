@@ -74,7 +74,7 @@
     <ApplicationIcon>Photoer.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>D6A84C82A9DB4FA20C540F5318F8D4EFE68F8F68</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>71342F5A087A0205C00AAEF6421438E3D1A8744E</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>Photoer_TemporaryKey.pfx</ManifestKeyFile>
